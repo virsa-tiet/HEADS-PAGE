@@ -14,9 +14,13 @@
 #para{
     color: black;
 }
-#bck{
-    background-color: black;
+body{
+  background: url("https://muskanpreet.github.io/Team2/5137894.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  text-align: center;
 }
+
 
 #team h2 {
     font-size: 2.5rem;
