@@ -148,6 +148,22 @@ border: 1px solid rgba( 255, 255, 255, 0.18 );
     transition: 300ms;
     opacity: 1 !important;
 }
+nav{
+  display:none !important;
+}
+
+}
+.navbar{
+
+  text-align:center !important;
+  background-color: black;
+  padding: 15px;
+  font-family: "Poppins", sans-serif;
+}
+button{
+  border: 0;
+  background-color: transparent;
+}
  
 .slider-arrows {
     border-radius: 36px;
