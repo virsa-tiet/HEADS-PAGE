@@ -102,6 +102,7 @@ a:hover { text-decoration: none; }
 }
  .team-social.white-bg li a  {
     background: #ffffff;
+     justify-content:center;
 }
  
 .team-coverflow {
