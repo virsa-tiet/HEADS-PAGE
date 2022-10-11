@@ -25,6 +25,7 @@
 }
 nav{
   z-index: 2;
+    position:fixed;
 }
 section { min-height:600px; }
 #para{
