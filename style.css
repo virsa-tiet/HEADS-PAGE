@@ -17,6 +17,7 @@
     border: 0 none;
     background-color: white;
 }
+section { min-height:500px; }
 #para{
     color: black;
 }
