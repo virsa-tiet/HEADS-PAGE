@@ -23,6 +23,9 @@
     justify-content: center;
     text-align: center;
 }
+nav{
+  z-index: 2;
+}
 section { min-height:600px; }
 #para{
     color: black;
