@@ -17,6 +17,12 @@
     border: 0 none;
     background-color: white;
 }
+.footer p{
+    text-transform: uppercase;
+    font-size: 14px;
+    justify-content: center;
+    text-align: center;
+}
 section { min-height:600px; }
 #para{
     color: black;
