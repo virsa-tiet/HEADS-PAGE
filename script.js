@@ -29,8 +29,8 @@ if ($(".swiper-container").hasClass("team-member-slider")) {
         }
     });
     }
-  if ($(".swiper-container").hasClass("team-member-sliderrr1")) {
-        var swiper = new Swiper('.swiper-container', {
+  if ($(".new-swiper-container").hasClass("new-team-member-slider")) {
+        var swiper = new Swiper('.new-swiper-container', {
             slidesPerView: 1,
             allowTouchMove: true,
             loop: false,
