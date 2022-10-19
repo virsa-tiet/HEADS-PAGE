@@ -143,7 +143,7 @@
   .team-coverflow .team-text h5{
       font-size: 1.6rem;
   }
-  .swiper-slide-active .team-coverflow:hover .team-box-content {
+   .team-coverflow:hover .team-box-content {
       opacity: 1;
       visibility: visible;
       border-radius: 0;
