@@ -143,7 +143,13 @@
       font-size: 14px;
       max-height: 66px;
   }
+ .team-coverflow .new-team-text{
+    text-align: center;
+    font-size: 14px;
+    max-height: 66px;
 
+    
+}
   .team-coverflow .team-text h5{
       font-size: 1.6rem;
   }
