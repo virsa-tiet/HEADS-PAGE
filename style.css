@@ -158,6 +158,7 @@
       visibility: visible;
       border-radius: 0;
       bottom: 0;
+       margin-bottom: -6%;
   }
   .team-box-content {
       background: rgba( 255, 255, 255, 0.25 );
